@@ -1,0 +1,2 @@
+rootProject.name = "Tapmad Application"
+include ':app'
